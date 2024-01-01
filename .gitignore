@@ -5,3 +5,4 @@ venv/
 db.sqlite
 .coverage
 .vscode
+htmlcov/
